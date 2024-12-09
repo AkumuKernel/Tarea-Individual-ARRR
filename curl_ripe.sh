@@ -112,7 +112,7 @@ for IP in "${!IP_TO_PROBE[@]}"; do  # Iterar sobre las claves del arreglo asocia
     }
   ],
   "is_oneoff": true,
-  "bill_to": "marcelo.fuenzalida@mail.udp.cl"
+  "bill_to": "TU_CORREO"
 }
 EOF
     )
